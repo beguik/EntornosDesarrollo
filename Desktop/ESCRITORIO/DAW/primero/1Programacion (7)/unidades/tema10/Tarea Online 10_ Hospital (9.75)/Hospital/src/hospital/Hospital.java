@@ -23,7 +23,7 @@ public class Hospital {
     private static Conector bd = new Conector();
 
     public static void main(String[] args) {
-
+//modificacion de prueba
         int opcion = 0;
         boolean repetir = true;
 
